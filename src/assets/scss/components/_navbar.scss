@@ -1,0 +1,16 @@
+.bg-rebeccapurple {
+    background-color:$primary;
+}
+
+.breadcrumb {
+    margin-bottom: 0;
+    background-color: transparent;
+
+    a {
+        color:rgba(white, 0.5);
+    }
+
+    .breadcrumb-item.active {
+        color: white;
+    }
+}

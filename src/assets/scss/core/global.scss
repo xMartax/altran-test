@@ -1,0 +1,10 @@
+@import 'core/mixins.scss';
+@import 'core/variables.scss';
+
+a {
+    color:rebeccapurple;
+
+    &:hover {
+        color:rebeccapurple;
+    }
+}
